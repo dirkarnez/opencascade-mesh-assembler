@@ -1,7 +1,7 @@
 opencascade-mesh-assembler
 ==========================
 ### Ideas
-- Solidwork export -> blender add invisible face with domain conventions + export as glb -> opencascade merge glbs according to the xy centeroids of invisible face
+- Solidwork export glb -> blender add invisible face with domain conventions + re-export as glb -> opencascade merge glbs according to the xy centeroids of invisible face
 
 ### Tutorials
 - [Open CASCADE Technology: Tutorials and Samples](https://dev.opencascade.org/doc/overview/html/samples.html)
