@@ -9,3 +9,7 @@ opencascade-mesh-assembler
 - [Open CASCADE Technology: Modeling: Bottle Tutorial](https://dev.opencascade.org/doc/overview/html/occt__tutorial.html)
 - [**trimesh/cascadio: A Python module using OpenCASCADE to convert STEP files to GLB**](https://github.com/trimesh/cascadio)
 - [详解 OCCT TDocStd_Document_occt document-CSDN博客](https://blog.csdn.net/qq_43689451/article/details/148979943)
+
+### Code sample
+- [FreeCAD/src/Mod/Import/App/ReaderGltf.cpp at main · FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD/blob/main/src/Mod/Import/App/ReaderGltf.cpp)
+- [Code search results](https://github.com/search?q=%23include+%3CRWGltf_CafReader.hxx%3E+language%3AC%2B%2B&type=code)
